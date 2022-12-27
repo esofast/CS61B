@@ -1,7 +1,7 @@
 # CS61B
 1. NGordnet (Ngrams): browser based tool for exploring the history of word usage and their hyponyms in English texts 
 
-Created a backend accepting multi-word inputs and constructed a graph based on hyponyms as noted from the Google Ngrams dataset. 
+Created a backend accepting multi-word inputs and constructs a graph based on hyponyms as parsed from the Google Ngrams dataset. 
 Used BFS to traverse graph and output hyponyms in highest to lowest usage during the given time period.
 
 <img width="720" alt="Screen Shot 2022-12-26 at 10 57 50 PM" src="https://user-images.githubusercontent.com/96752275/209629508-2d048325-bc6c-4ab1-b15b-0e4416b9d0a0.png">
