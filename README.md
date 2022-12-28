@@ -1,8 +1,9 @@
-# CS61B
+# CS61B [Java]
 1. NGordnet (Ngrams): browser based tool for exploring the history of word usage and their hyponyms in English texts 
 
-Created a backend accepting multi-word inputs and constructs a graph based on hyponyms as parsed from the Google Ngrams dataset. 
-Used BFS to traverse graph and output hyponyms in highest to lowest usage during the given time period.
+Created a backend accepting multi-word inputs and outputting its hyponyms and history of usage in English texts.
+Used a BFS implementation to traverse and output hyponyms in descending order from the Google Ngrams dataset.
+
 
 <img width="720" alt="Screen Shot 2022-12-26 at 10 57 50 PM" src="https://user-images.githubusercontent.com/96752275/209629508-2d048325-bc6c-4ab1-b15b-0e4416b9d0a0.png">
 
@@ -10,7 +11,7 @@ Used BFS to traverse graph and output hyponyms in highest to lowest usage during
 
 2. Flower Kingdom: Build Your own World (BYoW)
 
-Built an interactive game with multiple interfaces centered around a seed-based engine that generates explorable worlds
+Built a roguelike flower-collecting game with a 2D tile-based world exploration engine and multiple interfaces.
 
 Demo: https://youtu.be/MkHdP07Xcu8
 
