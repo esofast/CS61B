@@ -1,9 +1,8 @@
 # CS61B [Java]
 1. NGordnet (Ngrams): browser based tool for exploring the history of word usage and their hyponyms in English texts 
 
-Created a backend accepting multi-word inputs and outputting its hyponyms and history of usage in English texts.
-
-Used a BFS implementation to traverse and output hyponyms in descending order from the Google Ngrams dataset.
+Designed a backend accepting multi-word inputs and outputting its hyponyms and history of usage in English texts.
+Employed BFS to traverse and output hyponyms in descending order from the Google Ngrams dataset.
 
 
 <img width="720" alt="Screen Shot 2022-12-26 at 10 57 50 PM" src="https://user-images.githubusercontent.com/96752275/209629508-2d048325-bc6c-4ab1-b15b-0e4416b9d0a0.png">
