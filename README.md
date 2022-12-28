@@ -2,6 +2,7 @@
 1. NGordnet (Ngrams): browser based tool for exploring the history of word usage and their hyponyms in English texts 
 
 Designed a backend accepting multi-word inputs and outputting its hyponyms and history of usage in English texts.
+
 Employed BFS to traverse and output hyponyms in descending order from the Google Ngrams dataset.
 
 
